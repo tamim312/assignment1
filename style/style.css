@@ -1,0 +1,157 @@
+.navbar {
+    width: 85%;
+    max-width: 1360px;
+    margin-left: 120px; 
+    margin-right: 120px; 
+    /* border: 1px solid red; */
+}
+
+.nav-con {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+
+
+
+.list {
+    display: flex;
+     list-style: none;
+    gap: 32px;
+   margin: 0 auto;
+
+    padding: 0 2px;
+}
+
+.list li a {
+    text-decoration: none;
+    color: black;
+    line-height: 152%;
+    
+}
+
+
+.nav-btn button {
+    padding: 12.5px 16px ;
+    border: none;
+    background-color: #30B868;
+    color: white;
+    cursor: pointer;
+    
+}
+#bt{
+    background-color: white;
+    color: #30B868;
+    border: none;
+    font-size: 16px;
+    border-radius: 25px;
+    cursor: pointer;
+    
+}
+.b2{
+    background-color: #30B868;
+    padding: 16px 16px;
+    cursor: pointer;
+}
+.b3{
+    padding: 16px 16px;
+    cursor: pointer;
+}
+.ar1{
+    width: 16px;
+}
+#b-section{
+    width: 100%;
+    max-width: 1600px;
+    /* border: 1px solid greenyellow; */
+    background: url(../assets/hero-bg.png);
+    background-color: #001931;
+    
+}
+#section2{
+    width: 100%;
+    max-width: 1600px;
+    /* border: 1px solid greenyellow; */
+}
+
+.abc{
+    width: 1360pxpx;
+    /* border: 1px solid green; */
+    margin: 0 120px;
+    margin-top: 115.5px;
+    margin-bottom: 179.5px;
+    justify-items: center;
+    justify-content: space-between;
+    text-align: center;
+   
+}
+.f1{
+    color: #FFFFFF;
+}
+.f2{
+    color: #30B868;
+}
+.p1{
+    color: #FFFFFF;
+}
+.note{
+    margin: 0 120px;
+    /* border: 1px solid red; */
+    text-align: center;
+}
+.note2{
+    margin: 0 120px;
+    /* border: 1px solid red; */
+    text-align: center;
+    margin-top: 16px;
+    margin-bottom: 46pxS;
+}
+.key-notes{
+    display: flex;
+    margin: 0 120px;
+    gap: 24px;
+	text-align:center;
+}
+
+.main {
+    margin: 0 120px;
+    display: flex;
+    /* border: 1px solid red; */
+    gap: 40px;
+}
+
+.main2{
+     margin: 0 120px; 
+    text-align: center;
+	/* border: 1px solid red; */
+	background-color: #F7F6F2
+}
+#sc{
+    margin-top: 120px;
+	
+}
+#footer-c{
+    background-color: #17193A;
+    margin-top: 120px;
+    margin-bottom: 46px;
+}
+.footer{
+    display: flex;
+    justify-content: center;
+    gap: 600px;
+}
+.hr{
+    margin: 0 120px;
+}
+.text{
+       text-align:center;
+      color:white;
+margin-bottom:30px;	  
+}
+.social p{
+	
+	color:white;
+}
+
